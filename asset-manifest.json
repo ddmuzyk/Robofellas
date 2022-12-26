@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Robofellas/static/css/main.8f46cd52.css",
+    "main.js": "/Robofellas/static/js/main.acee4f3b.js",
+    "static/js/787.2f44008d.chunk.js": "/Robofellas/static/js/787.2f44008d.chunk.js",
+    "static/media/SEGA.woff": "/Robofellas/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/Robofellas/index.html",
+    "main.8f46cd52.css.map": "/Robofellas/static/css/main.8f46cd52.css.map",
+    "main.acee4f3b.js.map": "/Robofellas/static/js/main.acee4f3b.js.map",
+    "787.2f44008d.chunk.js.map": "/Robofellas/static/js/787.2f44008d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f46cd52.css",
+    "static/js/main.acee4f3b.js"
+  ]
+}
